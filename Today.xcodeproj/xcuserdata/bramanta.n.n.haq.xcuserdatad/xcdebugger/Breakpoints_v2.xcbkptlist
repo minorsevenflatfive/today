@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A193889E-A1B8-4035-ABAA-29AC8AE0940D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F49B6AF-F11C-48A0-B530-CDEFB0264486"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Today/ListViewController/ReminderListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "collectionView(_:shouldSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F49B6AF-F11C-48A0-B530-CDEFB0264486 - 9e379cb417b40f55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Today.ReminderListViewController.collectionView(_: __C.UICollectionView, shouldSelectItemAt: Foundation.IndexPath) -&gt; Swift.Bool"
+                  moduleName = "Today"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bramanta.n.n.haq/workspace/personal/today/Today/ListViewController/ReminderListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "435">
+               </Location>
+               <Location
+                  uuid = "4F49B6AF-F11C-48A0-B530-CDEFB0264486 - 9e379cb417b40f55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Today.ReminderListViewController.collectionView(_: __C.UICollectionView, shouldSelectItemAt: Foundation.IndexPath) -&gt; Swift.Bool"
+                  moduleName = "Today"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bramanta.n.n.haq/workspace/personal/today/Today/ListViewController/ReminderListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFB237CA-0EE3-4FC8-88AC-B4ED3C1F2632"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Today/ListViewController/ReminderListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "pushDetailViewForReminder(withId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0306CCE-BCF5-4A67-9F34-6978BD259F33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Today/ListViewController/ReminderListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "pushDetailViewForReminder(withId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95EA132B-149E-41B5-9C06-904FC4F3E488"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Today/ListViewController/ReminderListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "pushDetailViewForReminder(withId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17EC9D32-B94A-4C37-B174-52135FC1F577"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Today/ListViewController/ReminderListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "collectionView(_:shouldSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17EC9D32-B94A-4C37-B174-52135FC1F577 - 9e379cb417b40f0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Today.ReminderListViewController.collectionView(_: __C.UICollectionView, shouldSelectItemAt: Foundation.IndexPath) -&gt; Swift.Bool"
+                  moduleName = "Today"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bramanta.n.n.haq/workspace/personal/today/Today/ListViewController/ReminderListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "458">
+               </Location>
+               <Location
+                  uuid = "17EC9D32-B94A-4C37-B174-52135FC1F577 - 9e379cb417b40f0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Today.ReminderListViewController.collectionView(_: __C.UICollectionView, shouldSelectItemAt: Foundation.IndexPath) -&gt; Swift.Bool"
+                  moduleName = "Today"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bramanta.n.n.haq/workspace/personal/today/Today/ListViewController/ReminderListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "443">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
